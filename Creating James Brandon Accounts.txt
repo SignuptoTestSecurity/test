@@ -1,0 +1,54 @@
+13:26:11 - Logon  ufcya
+13:26:14 - Logged on to \EAGLE. Last system logon: 3/11/2020 7:52 AM.
+13:29:57 - Info User \EAGLE 001,255
+13:30:28 - Info Alias \EAGLE cope-davidc
+13:30:28 - Info Alias Remote Password \EAGLE cope-davidc
+13:30:29 - Info User \EAGLE 001,255
+13:30:53 - Info User \EAGLE 001,255
+13:30:53 - Info User \EAGLE 001,255
+13:31:17 - Add Alias \EAGLE cope-ufjxb
+13:31:19 - Add Alias \HAWK cope-ufjxb
+13:31:59 - Info Alias \EAGLE davidc
+13:31:59 - Info Alias Remote Password \EAGLE davidc
+13:32:00 - Info User \EAGLE 001,255
+13:32:41 - Info User \EAGLE 001,255
+13:32:42 - Info User \EAGLE 001,255
+13:32:46 - Info User \EAGLE 001,255
+13:32:46 - Info User \EAGLE SECURITY.ADMIN
+13:33:18 - Add Alias \EAGLE ufjxb
+13:33:19 - Add Alias \HAWK ufjxb
+13:33:58 - Logon  ufcya
+13:34:01 - Logged on to \RAVEN. Last system logon: 3/11/2020 8:03 AM.
+13:34:16 - Info User \RAVEN 001,255
+13:35:00 - Info Alias \RAVEN coped-davidc
+13:35:01 - Info Alias Remote Password \RAVEN coped-davidc
+13:35:01 - No objects of type remote-password matching ALIAS:coped-davidc\* were found
+13:35:01 - Info User \RAVEN 001,255
+13:35:24 - Info User \RAVEN 001,255
+13:35:25 - Info User \RAVEN 001,255
+13:35:26 - Info User \RAVEN -001,-001
+13:35:27 - Invalid name for an object of type user: -001,-001
+13:35:38 - Info Safeguard \RAVEN
+13:35:57 - Add Alias \RAVEN coped-ufjxb
+13:36:18 - Info Alias \RAVEN cope-davidc
+13:36:19 - Info Alias Remote Password \RAVEN cope-davidc
+13:36:19 - Info User \RAVEN 001,255
+13:36:42 - Info User \RAVEN 001,255
+13:36:43 - Info User \RAVEN 001,255
+13:36:47 - Info User \RAVEN 001,255
+13:36:47 - Info User \RAVEN SECURITY.ADMIN
+13:36:49 - Info User \RAVEN -001,-001
+13:36:49 - Invalid name for an object of type user: -001,-001
+13:36:59 - Info Safeguard \RAVEN
+13:37:16 - Add Alias \RAVEN cope-ufjxb
+13:37:40 - Info Alias \RAVEN davidc
+13:37:40 - Info Alias Remote Password \RAVEN davidc
+13:37:41 - Info User \RAVEN 001,255
+13:37:56 - Info User \RAVEN 001,255
+13:37:56 - Info User \RAVEN 001,255
+13:38:01 - Info User \RAVEN 001,255
+13:38:01 - Info User \RAVEN SECURITY.ADMIN
+13:38:02 - Info User \RAVEN -001,-001
+13:38:03 - Invalid name for an object of type user: -001,-001
+13:38:13 - Info Safeguard \RAVEN
+13:38:28 - Add Alias \RAVEN ufjxb
